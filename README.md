@@ -19,9 +19,9 @@ Tutorial:-
 ## Installation
 Just, Clone this repository -
 ```bash
-git clone https://github.com/XPH4N70M/XPHISHER.git
+git clone https://github.com/Toshi-san001/phisher.git
 ```
-Change to cloned directory and run xphisher.sh -
+Change to cloned directory and run phisher.sh -
 ```bash
 cd XPHISHER 
 ```
