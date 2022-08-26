@@ -28,19 +28,19 @@ cd XPHISHER
 ![Screenshot_20220519-161949_zoom](https://user-images.githubusercontent.com/70594016/169277848-9385cd67-855a-4fba-9fd4-623082def278.png)
 
 ```bash
-bash xphisher.sh
+bash phisher.sh
 ```
 On first launch, It'll install the dependencies and that's it. xphisher is installed.
 
 ### Run on Docker
 ```bash
-docker pull XPH4N70M/XPHISHER 
+docker pull Toshi-san001/phisher 
 ```
 ```bash
-docker run --rm -it XPH4N70M/XPHISHER 
+docker run --rm -it Toshi-san001/phisher 
 ```
 ### Dependencies
-xphisher requires following programs to run properly -
+phisher requires following programs to run properly -
 ```bash
 php
 ```
