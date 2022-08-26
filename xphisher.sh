@@ -64,7 +64,7 @@ banner() {
                 ${BLUE}╋┏┛┗┓┃┏━━┫┏┓┣┫━━┫┏┓┃┃━┫┏┛
                 ${BLUE}┏┛┏┓┗┫┃╋╋┃┃┃┃┣━━┃┃┃┃┃━┫┃
                 ${BLUE}┗━┛┗━┻┛╋╋┗┛┗┻┻━━┻┛┗┻━━┻┛             
-                ${RED} ASH UCHIHA (GOD X UCHIHA)
+                ${RED} TOSHI-_-SAMA_12
                                                   
 		${CYAN}Version : 2.2 
 		
@@ -77,7 +77,7 @@ banner_small() {
 	cat <<- EOF
                 ${BLUE} ▀▄▀   █▀█ █░█ ▄▀█ █▄░█ ▀█▀ █▀█ █▀▄▀█
                 ${BLUE} █░█   █▀▀ █▀█ █▀█ █░▀█ ░█░ █▄█ █░▀░█
-		${RED}  X ASH  [GOD X UCHIHA]
+		${RED}  TOSHI-_-SAMA_12
 	EOF
 }
 
