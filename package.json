@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "economy-mongoose": "^1.2.5",
+    "package": "^1.0.1",
+    "parse-ms-js": "^1.2.0",
+    "pokenode-ts": "^1.17.0"
+  }
+}
